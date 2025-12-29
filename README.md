@@ -17,7 +17,7 @@ the Fashion-MNIST dataset.
 
 ## 🛠 Technologies Used
 - Python
-- TensorFlow / Keras
+- PyTorch
 - NumPy
 - Matplotlib
 - Jupyter Notebook
